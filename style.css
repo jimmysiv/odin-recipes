@@ -1,0 +1,41 @@
+
+body{
+    background-color: hsl(0, 2%, 75%);
+}
+
+#link-list{
+    color: teal;
+    background-color: yellow;
+    display: block;
+    width: 100px;
+    margin:  auto;
+}
+
+li{
+    margin: 10px auto;
+}
+
+.headings{
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.images{
+    display: inline-block;
+    margin: auto;
+}
+
+h2{
+    display: inline;
+    margin: auto 10px;
+}
+
+.ingredient-list{
+    background-color: rgb(77, 197, 212);
+    width: 400px;
+}
+
+.ingredient-list li{
+    color: rgb(129, 10, 10);
+}
